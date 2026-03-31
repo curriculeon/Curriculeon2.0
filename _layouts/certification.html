@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Certificate of Completion</title>
+<link rel="stylesheet" href="{{ site.baseurl }}/resources/utils/css/graduate-certification.css">
+</head>
+<body>
+    <div class="certificate">
+        <div class="certificate-header">
+            <img src="{{ site.baseurl }}/resources/utils/img/logo.png" alt="Bootcamp Logo" style="width:100px;">
+            <h1 class="certificate-title">Certificate of Completion</h1>
+        </div>
+        <h2 class="recipient-name">{{ page.graduateName }}</h2>
+        <p class="body-text">
+            This is to certify that <strong>{{ page.graduateName }}</strong> has successfully completed the <strong>{{ page.courseName }}</strong> on <strong>{{ page.date }}</strong>.
+        </p>
+        <div class="signature">
+            <img src="{{ site.baseurl }}/resources/utils/img/digital-signature.png" alt="Signature" style="width:150px;">
+            <br>
+            Leon Christopher Hunter
+        </div>
+        <p class="date">Date: {{ page.date }}</p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,43 @@
+.site-header, .site-footer {
+    display: none;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 40px;
+    background: #f9f9f9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.certificate {
+    border: 5px solid #ddd;
+    padding: 20px;
+    background: white;
+    width: 80%;
+    max-width: 600px;
+}
+.certificate-header {
+    text-align: center;
+}
+.certificate-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+.recipient-name {
+    font-size: 20px;
+    margin: 20px 0;
+    text-align: center;
+}
+.body-text {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.signature {
+    margin-top: 30px;
+    text-align: right;
+    font-style: italic;
+}
+.date {
+    text-align: right;
+    font-style: italic;
+}

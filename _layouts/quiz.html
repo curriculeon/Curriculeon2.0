@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>    
+    {% include default-head.html %}
+    {% include quizdown.html %}
+  </head>
+  <body>
+    {% include default-header.html %}
+
+    <main id="content" class="main-content" role="main">      
+        <div class="quizdown">
+            {{ page.content }}
+        </div>
+      {% include default-footer.html %}
+    </main>
+  </body>
+</html>

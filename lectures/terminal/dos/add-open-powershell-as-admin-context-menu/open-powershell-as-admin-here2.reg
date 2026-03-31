@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\shell\runas]
+@="Open Windows PowerShell Here as Administrator"
+"HasLUAShield"=""
+
+[HKEY_CLASSES_ROOT\Directory\shell\runas\command]
+@="C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -NoExit -NoProfile -Command \"Set-Location '%V'\""

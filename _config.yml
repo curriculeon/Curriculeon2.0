@@ -1,0 +1,5 @@
+# theme: jekyll-theme-cayman
+remote_theme: lewismiddleton/cayman-dark
+plugins:
+  - jekyll-seo-tag
+  - jekyll-get-json

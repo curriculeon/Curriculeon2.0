@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>    
+    {% include default-head.html %}
+    
+  </head>
+
+  <body>
+
+    {% include default-header.html %}
+
+      <main id="content" class="main-content" role="main">
+        <h1>{{page.title}}</h1>
+
+          <div id="topics">
+              <ul>
+                  {% for topic in page.topics %}
+                  <li><a href="{{ site.baseurl }}{{ page.url }}{{ forloop.index }}_content.html">{{topic}}</a></li>
+                  {% endfor %}
+              </ul>
+          </div>
+
+          {% include default-footer.html %}
+      </main>    
+  </body>
+  
+  

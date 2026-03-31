@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="{{ site.baseurl }}/resources/utils/css/code-quiz.css">
+<script src="{{ site.baseurl }}/resources/quizdown/quizdown.js"></script><script>
+    let config = {
+        startOnLoad: true,		    // detect and convert all divs with class quizdown
+        shuffleAnswers: true,		// shuffle answers for each question
+        shuffleQuestions: false,    // shuffle questsions for each quiz
+        nQuestions: undefined,      // dsiplay n questions at random, if shuffleQuestions is true
+        primaryColor: 'lime',       // primary CSS color
+        secondaryColor: '#f2f2f2',  // secondary CSS color
+        textColor: 'black',         // text color of some elements
+        locale: null                // language of the user interface (auto-detect per default)
+    };
+    quizdown.init(config);
+</script>

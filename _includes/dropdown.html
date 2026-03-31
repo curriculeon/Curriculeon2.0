@@ -1,0 +1,8 @@
+<div>
+    <label for="drop-down">{{include.name}}</label>
+    <select name="drop-down" id="drop-down">
+        {% for option in {{ include.options }} %}
+        <option value="{{ option }}">{{ option }}</option>
+        {% endfor %}
+    </select>
+</div>
