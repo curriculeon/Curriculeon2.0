@@ -1,4 +1,4 @@
-source "http://rubygems.org"
+source "https://rubygems.org"
 gem 'jekyll-seo-tag'
 gem "faraday", "~> 0.17.3"
 gem "jekyll", "~> 3.8.5"

@@ -3,3 +3,169 @@ remote_theme: lewismiddleton/cayman-dark
 plugins:
   - jekyll-seo-tag
   - jekyll-get-json
+
+# Performance: only rebuild changed files
+incremental: true
+
+# Exclude non-content files from the built _site
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - build.sh
+  - build.sh.log
+  - kill-port.sh
+  - serve-application.sh
+  - analyze-build.sh
+  - python2-runner.bat
+  - python3-runner.bat
+  - .travis.yml
+  - "*.bat"
+  - "*.sh"
+  - "*.log"
+  - target/
+  # --- Orphaned top-level lecture directories (entirely unreferenced) ---
+  - lectures/3d-printing/
+  - lectures/computer-literacy/
+  - lectures/fullstack-applications/
+  - lectures/integrated-development-environments/
+  - lectures/online-code-testing/
+  - lectures/ruby/
+  - lectures/software-engineering/
+  - lectures/supertopic-template/
+  - lectures/welcome/
+  # --- Orphaned course files ---
+  - courses/aws-edx-training.md
+  - courses/test-course.md
+  - courses/old-index.md
+  # --- Orphaned: angular ---
+  - lectures/angular/intro/
+  - lectures/angular/my-first-project/
+  # --- Orphaned: blockchain subtopics ---
+  - lectures/blockchain/ethereum/creating-wallet/
+  - lectures/blockchain/ethereum/metamask/
+  - lectures/blockchain/ethereum/ropsten-faucet/what-is/
+  - lectures/blockchain/near/creating-wallet/
+  - lectures/blockchain/near/metamask/
+  - lectures/blockchain/near/my-first-deployment/
+  - lectures/blockchain/near/what-is/
+  - lectures/blockchain/smart-contracts/ganache-cli/
+  - lectures/blockchain/smart-contracts/solidity/
+  - lectures/blockchain/smart-contracts/trufflejs/
+  # --- Orphaned: ci-cd subtopics ---
+  - lectures/ci-cd/jenkins/configure-environment-git-integration/
+  - lectures/ci-cd/jenkins/my-first-python-job/
+  - lectures/ci-cd/subtopic-template/
+  - lectures/ci-cd/travis-ci/configuring-gradle-project/
+  - lectures/ci-cd/travis-ci/configuring-spring-project/
+  # --- Orphaned: cloud subtopics ---
+  - lectures/cloud/aws/certified-cloud-practitioner/
+  - lectures/cloud/aws/elastic-beanstalk-service/intro/
+  - lectures/cloud/aws/elastic-container-service/intro/
+  - lectures/cloud/aws/my-walkthroughs/
+  - lectures/cloud/aws/support-center/what-is/
+  - lectures/cloud/docker/
+  - lectures/cloud/kubernetes/
+  # --- Orphaned: data-engineering subtopics ---
+  - lectures/data-engineering/database-vendors/
+  - lectures/data-engineering/install-oracle-sql-developer/
+  - lectures/data-engineering/install-visualstudio/
+  - lectures/data-engineering/wilhem-sql/
+  # --- Orphaned: html subtopics ---
+  - lectures/html/beat-maker-lecture/
+  - lectures/html/content-models/
+  - lectures/html/css/bootstrap/
+  - lectures/html/css/manipulating-images/
+  - lectures/html/javascript/dot-operator/
+  - lectures/html/javascript/lists/
+  - lectures/html/javascript/subtopic-template/
+  - lectures/html/lecture-template/
+  # --- Orphaned: java subtopics ---
+  - lectures/java/build-automation/gradle/
+  - lectures/java/build-automation/maven/what-is/
+  - lectures/java/collections/arrays-vs-arraylists/
+  - lectures/java/collections/brief-overview/
+  - lectures/java/collections/lists-and-sets/
+  - lectures/java/collections/stacks-linkedlists-queues/
+  - lectures/java/concurrency/
+  - lectures/java/dependency-management/
+  - lectures/java/design-principles/clean-code/
+  - lectures/java/design-principles/enums-and-singletons/
+  - lectures/java/fundamental-programming-structures/arrays-and-arraylists/
+  - lectures/java/fundamental-programming-structures/builtin-types/
+  - lectures/java/fundamental-programming-structures/input-and-output/
+  - lectures/java/fundamental-programming-structures/types-and-operators/
+  - lectures/java/generics/bounds-wildcards-typeerasure/
+  - lectures/java/generics/parametric-polymorphism/
+  - lectures/java/java8/brief-overview/
+  - lectures/java/test-driven-development/mocking-data/
+  - lectures/java/test-driven-development/testing-jpa/
+  - lectures/java/web/intro-to-persistence/
+  - lectures/java/web/jdbc/api-specifications/
+  - lectures/java/web/jpa/basic-use-cases/
+  - lectures/java/web/oop-persistence/
+  - lectures/java/web/spring/my-first-project/
+  - lectures/java/web/spring/spring-dependency-injection/
+  - lectures/java/web/spring/spring-jdbc/
+  - lectures/java/web/spring/spring-web-mvc/
+  - lectures/java/web/spring/what-is-rest/
+  # --- Orphaned: jekyll subtopics ---
+  - lectures/jekyll/first-blog/
+  - lectures/jekyll/liquid-templating/
+  - lectures/jekyll/quizdown-poc/
+  - lectures/jekyll/revealjs-poc/
+  - lectures/jekyll/search-bar/
+  - lectures/jekyll/what-is/
+  # --- Orphaned: learning-management-systems subtopics ---
+  - lectures/learning-management-systems/blackboard/
+  - lectures/learning-management-systems/canvas/accessing-api/
+  - lectures/learning-management-systems/google-classroom/
+  - lectures/learning-management-systems/moodle/
+  # --- Orphaned: nodejs subtopics ---
+  - lectures/nodejs/what-is/
+  - lectures/nodejs/yarn-installation/
+  # --- Orphaned: orchestration subtopics ---
+  - lectures/orchestration/docker-compose/what-is/
+  # --- Orphaned: project-management subtopics ---
+  - lectures/project-management/how-to-whiteboard/
+  - lectures/project-management/what-is-waterfall/
+  # --- Orphaned: python subtopics ---
+  - lectures/python/my-first-unittest/
+  - lectures/python/what-is-a-class/
+  # --- Orphaned: react subtopics ---
+  - lectures/react/building-react-components-with-bootstrap-studio/
+  - lectures/react/intro/
+  # --- Orphaned: terminal subtopics ---
+  - lectures/terminal/bash/full-disk-access/
+  - lectures/terminal/bash/hardinstall-brew/
+  - lectures/terminal/bash/terminal-theme/
+  - lectures/terminal/bash/uninstall-brew/
+  - lectures/terminal/bash/what-is/
+  # --- Orphaned: typescript subtopics ---
+  - lectures/typescript/what-is/
+  # --- Orphaned: version-control-systems subtopics ---
+  - lectures/version-control-systems/git/creating-a-new-repository/
+  - lectures/version-control-systems/git/how-to-fork/
+  - lectures/version-control-systems/git/introduction/
+  - lectures/version-control-systems/mercurial/
+  # --- Orphaned: virtualization subtopics ---
+  - lectures/virtualization/dinghy/what-is/
+  - lectures/virtualization/virtual-box/basics/
+  - lectures/virtualization/virtual-box/cli-and-logging/
+  - lectures/virtualization/virtual-box/create-shared-folder/
+  - lectures/virtualization/vmware-workstation-player/
+  - lectures/virtualization/windows-hyper-v/basics/
+  - lectures/virtualization/windows-hyper-v/cli-and-logging/
+  # --- Orphaned: whiteboard-questions subtopics ---
+  - lectures/whiteboard-questions/door-to-freedom/
+  - lectures/whiteboard-questions/interview-prep/
+  - lectures/whiteboard-questions/isolate-heaviest/
+  - lectures/whiteboard-questions/lion-transporter/
+  - lectures/whiteboard-questions/measuring-cup/
+  # --- Orphaned: wordpress subtopics ---
+  - lectures/wordpress/download-apache/
+  - lectures/wordpress/install-apache/
+  - lectures/wordpress/install-gzip/
+  - lectures/wordpress/install-php/
+  - lectures/wordpress/install-wpcli/

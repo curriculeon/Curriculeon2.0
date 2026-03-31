@@ -1,0 +1,32 @@
+---
+module: 8
+title: "NodeJs Fundamentals"
+slug: nodejs-fundamentals
+items:
+    - title: "NodeJs Installation"
+      type: lecture
+      path: "../../../lectures/nodejs/installation/content.md"
+    - title: "What is NodeJS?"
+      type: lecture
+      path: "../../../lectures/nodejs/what-is/content.md"
+    - title: "FileReadWrite"
+      type: lab
+      url: "https://github.com/curriculeon/nodejs.filereadwrite"
+---
+# Module 8: NodeJs Fundamentals
+
+## Items
+
+1. `lecture` [NodeJs Installation](../../../lectures/nodejs/installation/content.md)
+2. `lecture` [What is NodeJS?](../../../lectures/nodejs/what-is/content.md)
+3. `lab` [FileReadWrite](https://github.com/curriculeon/nodejs.filereadwrite)
+
+## Summary
+
+| Type | Count |
+|:-----|------:|
+| Lectures | 2 |
+| Labs/Projects | 1 |
+| Assignments | 0 |
+| Quizzes | 0 |
+| Videos | 0 |

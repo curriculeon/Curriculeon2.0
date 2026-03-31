@@ -200,4 +200,5 @@
 * [Isolate Heaviest](lectures/whiteboard-questions/isolate-heaviest/lecture.html)
 * [Measuring Cup](lectures/whiteboard-questions/measuring-cup/lecture.html)
 * [Lion](lectures/whiteboard-questions/isolate-heaviest/lecture.html)
+* [Full Stack Java Microservice](./full-stack-java-microservice/index.md)
 -->

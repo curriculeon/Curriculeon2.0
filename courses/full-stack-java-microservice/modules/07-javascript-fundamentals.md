@@ -1,0 +1,77 @@
+---
+module: 7
+title: "JavaScript Fundamentals"
+slug: javascript-fundamentals
+items:
+    - title: "What is JavaScript?"
+      type: lecture
+      path: "../../../lectures/html/javascript/intro-to-javascript/content.md"
+    - title: "Types"
+      type: lecture
+      path: "../../../lectures/html/javascript/types/content.md"
+    - title: "Operators"
+      type: lecture
+      path: "../../../lectures/html/javascript/operators/content.md"
+    - title: "Conditionals"
+      type: lecture
+      path: "../../../lectures/html/javascript/conditionals/content.md"
+    - title: "Functions"
+      type: lecture
+      path: "../../../lectures/html/javascript/functions/content.md"
+    - title: "Loops"
+      type: lecture
+      path: "../../../lectures/html/javascript/loops/content.md"
+    - title: "Classes"
+      type: lecture
+      path: "../../../lectures/html/javascript/defining-a-class/content.md"
+    - title: "Modules"
+      type: lecture
+      path: "../../../lectures/html/javascript/modules/content.md"
+    - title: "Fizzbuzz"
+      type: lab
+      url: "https://github.com/curriculeon/html.css.javascript-fizzbuzz"
+    - title: "Number List"
+      type: lab
+      url: "https://github.com/curriculeon/html.css.javascript-numbberlis"
+    - title: "String Manipulation"
+      type: lab
+      url: "https://github.com/curriculeon/html.css.javascript-stringmanipulation"
+    - title: "Numbers Triangles Tables"
+      type: lab
+      url: "https://github.com/curriculeon/javascript.printing-numbers"
+    - title: "Shopping Cart"
+      type: lab
+      url: "https://github.com/curriculeon/html.css.javascript-shoppingcar"
+    - title: "Debugging a Blackjack Game"
+      type: lab
+      url: "https://github.com/curriculeon/javascript.blackjack-debugger"
+---
+# Module 7: JavaScript Fundamentals
+
+## Items
+
+1. `lecture` [What is JavaScript?](../../../lectures/html/javascript/intro-to-javascript/content.md)
+2. `lecture` [Types](../../../lectures/html/javascript/types/content.md)
+3. `lecture` [Operators](../../../lectures/html/javascript/operators/content.md)
+4. `lecture` [Conditionals](../../../lectures/html/javascript/conditionals/content.md)
+5. `lecture` [Functions](../../../lectures/html/javascript/functions/content.md)
+6. `lecture` [Loops](../../../lectures/html/javascript/loops/content.md)
+7. `lecture` [Classes](../../../lectures/html/javascript/defining-a-class/content.md)
+8. `lecture` [Modules](../../../lectures/html/javascript/modules/content.md)
+9. `lab` [Fizzbuzz](https://github.com/curriculeon/html.css.javascript-fizzbuzz)
+10. `lab` [Number List](https://github.com/curriculeon/html.css.javascript-numbberlis)
+11. `lab` [String Manipulation](https://github.com/curriculeon/html.css.javascript-stringmanipulation)
+12. `lab` [Numbers Triangles Tables](https://github.com/curriculeon/javascript.printing-numbers)
+13. `lab` [Shopping Cart](https://github.com/curriculeon/html.css.javascript-shoppingcar)
+14. `lab` [Debugging a Blackjack Game](https://github.com/curriculeon/javascript.blackjack-debugger)
+
+## Summary
+
+| Type | Count |
+|:-----|------:|
+| Lectures | 8 |
+| Labs/Projects | 6 |
+| Assignments | 0 |
+| Quizzes | 0 |
+| Videos | 0 |
+

@@ -5,9 +5,10 @@ if [ "$1" ]
     echo "Building project..."
     ./kill-port.sh $1
     bundle install
-    bundle update --bundler
-    bundle update faraday
-    bundle exec jekyll serve --trace --watch --port $1
+    # Suppress Ruby 2.7 keyword argument deprecation warnings
+    # (Jekyll 3.8.5 triggers this on every {% include %} call — thousands of times)
+    export RUBYOPT="-W0"
+    bundle exec jekyll serve --trace --watch --incremental --port $1
     echo "The application should be served on [localhost:$1](http://localhost:$1/)"
 else
     echo "Port number not specified."

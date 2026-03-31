@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Systems Hierarchy Visualization</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<canvas id="c"></canvas>
+
+<div id="title-card">
+  <h1>Systems Hierarchy</h1>
+  <p>Execution → Containers → Orchestration → Cloud</p>
+</div>
+
+<div id="breadcrumb">
+  <span class="crumb active" data-level="0">Execution Stack</span>
+  <span class="crumb-sep">›</span>
+  <span class="crumb" data-level="1">Container</span>
+  <span class="crumb-sep">›</span>
+  <span class="crumb" data-level="2">Orchestration</span>
+  <span class="crumb-sep">›</span>
+  <span class="crumb" data-level="3">Cloud</span>
+</div>
+
+<div id="hint-box">Click a pyramid layer to expand · Hover boundaries to discover siblings</div>
+<button id="back-btn">‹ Back</button>
+
+<div id="legend">
+  <div><span class="legend-dot" style="background:#ff6b6b"></span>Binary Execution</div>
+  <div><span class="legend-dot" style="background:#ffa94d"></span>Command Line</div>
+  <div><span class="legend-dot" style="background:#69db7c"></span>Version Control</div>
+  <div><span class="legend-dot" style="background:#74c0fc"></span>Programming</div>
+  <div class="legend-div"></div>
+  <div><span class="legend-dot" style="background:rgba(90,155,255,0.55);outline:1px solid rgba(90,155,255,0.5)"></span>Container</div>
+  <div><span class="legend-dot" style="background:rgba(170,100,255,0.4);outline:1px solid rgba(170,100,255,0.5)"></span>Orchestration</div>
+  <div><span class="legend-dot" style="background:rgba(80,230,175,0.3);outline:1px solid rgba(80,230,175,0.45)"></span>Cloud</div>
+</div>
+
+<!-- Scripts loaded in dependency order -->
+<script src="js/config.js"></script>
+<script src="js/state.js"></script>
+<script src="js/camera.js"></script>
+<script src="js/hit-testing.js"></script>
+<script src="js/drawing.js"></script>
+<script src="js/ui.js"></script>
+<script src="js/input.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+</html>
