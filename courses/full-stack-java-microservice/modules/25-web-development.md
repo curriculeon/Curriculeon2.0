@@ -5,19 +5,19 @@ slug: web-development
 items:
     - title: "HTTP Verbs"
       type: lecture
-      path: "../../../lectures/java/web/http-verbs/content.md"
+      path: "../../../lectures/java/web/http-verbs/content.html"
     - title: "RESTful Development"
       type: lecture
-      path: "../../../lectures/java/web/restful-development/content.md"
+      path: "../../../lectures/java/web/restful-development/content.html"
     - title: "Model, View, Controller"
       type: lecture
-      path: "../../../lectures/java/web/model-view-controller/content.md"
+      path: "../../../lectures/java/web/model-view-controller/content.html"
     - title: "Spring Annotations"
       type: lecture
-      path: "../../../lectures/java/web/spring/spring-annotations/content.md"
+      path: "../../../lectures/java/web/spring/spring-annotations/content.html"
     - title: "Mockito"
       type: lecture
-      path: "../../../lectures/java/web/mockito/what-is/content.md"
+      path: "../../../lectures/java/web/mockito/what-is/content.html"
     - title: "Spring Boot CRUD Controller"
       type: assignment
     - title: "Spring Boot CRUD Controller - Live Lecture Demonstration (Part 1)"

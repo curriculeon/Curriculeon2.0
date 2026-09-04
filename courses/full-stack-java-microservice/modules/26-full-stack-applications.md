@@ -5,7 +5,7 @@ slug: full-stack-applications
 items:
     - title: "Spring JQuery Full-Stack Demonstration"
       type: lecture
-      path: "../../../lectures/java/web/spring/my-first-fullstack/index.md"
+      path: "../../../lectures/java/web/spring/my-first-fullstack/index.html"
     - title: "Spring Blackjack Debugger"
       type: lab
       url: "https://github.com/curriculeon/spring.micromonolith-blackjackdebugger"

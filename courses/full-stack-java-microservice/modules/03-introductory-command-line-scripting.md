@@ -5,7 +5,7 @@ slug: introductory-command-line-scripting
 items:
     - title: "CLI Walkthrough"
       type: lecture
-      path: "../../../lectures/terminal/bash/commandline-walkthrough/content.md"
+      path: "../../../lectures/terminal/bash/commandline-walkthrough/content.html"
     - title: "CLI Walkthrough — Video (Part 1)"
       type: video
       url: "https://drive.google.com/file/d/1bzJ_mGHRrRwMLLm5N7CQlN7c3OLThQRz/view"

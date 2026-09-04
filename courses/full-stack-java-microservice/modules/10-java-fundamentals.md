@@ -5,22 +5,22 @@ slug: java-fundamentals
 items:
     - title: "Types"
       type: lecture
-      path: "../../../lectures/java/fundamental-programming-structures/types/content.md"
+      path: "../../../lectures/java/fundamental-programming-structures/types/content.html"
     - title: "Operators"
       type: lecture
-      path: "../../../lectures/java/fundamental-programming-structures/operators/content.md"
+      path: "../../../lectures/java/fundamental-programming-structures/operators/content.html"
     - title: "Control Flow"
       type: lecture
-      path: "../../../lectures/java/fundamental-programming-structures/control-flow/content.md"
+      path: "../../../lectures/java/fundamental-programming-structures/control-flow/content.html"
     - title: "Numbers, Triangles, Tables - getRange(stop) Walkthrough"
       type: video
       url: "https://drive.google.com/file/d/1-xfWjy_XfzIzOrfg6qfN_v_aKs_R8kC1/view"
     - title: "Arrays"
       type: lecture
-      path: "../../../lectures/java/fundamental-programming-structures/arrays/content.md"
+      path: "../../../lectures/java/fundamental-programming-structures/arrays/content.html"
     - title: "Object Relations: Encapsulation - Defining a Class"
       type: lecture
-      path: "../../../lectures/java/object-oriented-programming/defining-a-class/content.md"
+      path: "../../../lectures/java/object-oriented-programming/defining-a-class/content.html"
     - title: "Java Fundamentals"
       type: lab
       url: "https://github.com/curriculeon/maven.java-fundamentals"

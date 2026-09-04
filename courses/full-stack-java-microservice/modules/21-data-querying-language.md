@@ -5,13 +5,13 @@ slug: data-querying-language
 items:
     - title: "Viewing Data"
       type: lecture
-      path: "../../../lectures/data-engineering/viewing-data/content.md"
+      path: "../../../lectures/data-engineering/viewing-data/content.html"
     - title: "Relational Data"
       type: lecture
-      path: "../../../lectures/data-engineering/relationships/content.md"
+      path: "../../../lectures/data-engineering/relationships/content.html"
     - title: "Aggregating Data"
       type: lecture
-      path: "../../../lectures/data-engineering/analytics/content.md"
+      path: "../../../lectures/data-engineering/analytics/content.html"
 ---
 # Module 21: Data Querying Language
 

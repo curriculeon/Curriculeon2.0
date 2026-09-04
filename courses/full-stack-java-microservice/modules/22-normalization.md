@@ -5,10 +5,10 @@ slug: normalization
 items:
     - title: "Normalization, Second Form"
       type: lecture
-      path: "../../../lectures/data-engineering/normalization-second-form/content.md"
+      path: "../../../lectures/data-engineering/normalization-second-form/content.html"
     - title: "Normalization, Third Form"
       type: lecture
-      path: "../../../lectures/data-engineering/normalization-third-form/content.md"
+      path: "../../../lectures/data-engineering/normalization-third-form/content.html"
     - title: "Normalization, First Form"
       type: assignment
 ---

@@ -5,13 +5,13 @@ slug: data-definition-language
 items:
     - title: "Table Schemas"
       type: lecture
-      path: "../../../lectures/data-engineering/defining-schema-and-tables/content.md"
+      path: "../../../lectures/data-engineering/defining-schema-and-tables/content.html"
     - title: "Schema Constraints"
       type: lecture
-      path: "../../../lectures/data-engineering/schema-constraints/content.md"
+      path: "../../../lectures/data-engineering/schema-constraints/content.html"
     - title: "Database Index"
       type: lecture
-      path: "../../../lectures/data-engineering/database-index/content.md"
+      path: "../../../lectures/data-engineering/database-index/content.html"
 ---
 # Module 19: Data Definition Language
 

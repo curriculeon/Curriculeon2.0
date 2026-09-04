@@ -5,10 +5,10 @@ slug: course-resources
 items:
     - title: "Welcome to the Course"
       type: lecture
-      path: "../../../lectures/welcome/content.md"
+      path: "../../../lectures/welcome/content.html"
     - title: "What Are We Learning?"
       type: lecture
-      path: "../../../lectures/courses/full-stack-java-microservice/what-are-we-learning/content.md"
+      path: "../../../lectures/courses/full-stack-java-microservice/what-are-we-learning/content.html"
     - title: "Join the Discord Server!"
       type: assignment
 ---

@@ -5,16 +5,16 @@ slug: configuring-java-environment
 items:
     - title: "Java Installation"
       type: lecture
-      path: "../../../lectures/java/installation/content.md"
+      path: "../../../lectures/java/installation/content.html"
     - title: "Maven Installation"
       type: lecture
-      path: "../../../lectures/java/build-automation/maven/installation/content.md"
+      path: "../../../lectures/java/build-automation/maven/installation/content.html"
     - title: "IntelliJ Installation"
       type: lecture
-      path: "../../../lectures/java/install-intellij/content.md"
+      path: "../../../lectures/java/install-intellij/content.html"
     - title: "Creating a Java Project"
       type: lecture
-      path: "../../../lectures/java/my-first-program/content.md"
+      path: "../../../lectures/java/my-first-program/content.html"
     - title: "My First Project"
       type: assignment
 ---

@@ -5,16 +5,16 @@ slug: test-driven-development
 items:
     - title: "Untestable Monoliths"
       type: lecture
-      path: "../../../lectures/java/test-driven-development/untestable-monoliths/content.md"
+      path: "../../../lectures/java/test-driven-development/untestable-monoliths/content.html"
     - title: "Fundamental Test Clauses"
       type: lecture
-      path: "../../../lectures/java/test-driven-development/fundamental-clauses/content.md"
+      path: "../../../lectures/java/test-driven-development/fundamental-clauses/content.html"
     - title: "Object-State vs Object-Identity"
       type: lecture
-      path: "../../../lectures/java/test-driven-development/state-vs-identity/content.md"
+      path: "../../../lectures/java/test-driven-development/state-vs-identity/content.html"
     - title: "Abstracting Test Clauses"
       type: lecture
-      path: "../../../lectures/java/test-driven-development/fundamental-clauses/content.md"
+      path: "../../../lectures/java/test-driven-development/fundamental-clauses/content.html"
     - title: "TDD Animal Factory"
       type: lab
       url: "https://github.com/curriculeon/maven_tdd-animal-factory"

@@ -5,28 +5,28 @@ slug: javascript-fundamentals
 items:
     - title: "What is JavaScript?"
       type: lecture
-      path: "../../../lectures/html/javascript/intro-to-javascript/content.md"
+      path: "../../../lectures/html/javascript/intro-to-javascript/content.html"
     - title: "Types"
       type: lecture
-      path: "../../../lectures/html/javascript/types/content.md"
+      path: "../../../lectures/html/javascript/types/content.html"
     - title: "Operators"
       type: lecture
-      path: "../../../lectures/html/javascript/operators/content.md"
+      path: "../../../lectures/html/javascript/operators/content.html"
     - title: "Conditionals"
       type: lecture
-      path: "../../../lectures/html/javascript/conditionals/content.md"
+      path: "../../../lectures/html/javascript/conditionals/content.html"
     - title: "Functions"
       type: lecture
-      path: "../../../lectures/html/javascript/functions/content.md"
+      path: "../../../lectures/html/javascript/functions/content.html"
     - title: "Loops"
       type: lecture
-      path: "../../../lectures/html/javascript/loops/content.md"
+      path: "../../../lectures/html/javascript/loops/content.html"
     - title: "Classes"
       type: lecture
-      path: "../../../lectures/html/javascript/defining-a-class/content.md"
+      path: "../../../lectures/html/javascript/defining-a-class/content.html"
     - title: "Modules"
       type: lecture
-      path: "../../../lectures/html/javascript/modules/content.md"
+      path: "../../../lectures/html/javascript/modules/content.html"
     - title: "Fizzbuzz"
       type: lab
       url: "https://github.com/curriculeon/html.css.javascript-fizzbuzz"

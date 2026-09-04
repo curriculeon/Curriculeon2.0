@@ -5,13 +5,13 @@ slug: data-manipulation-language
 items:
     - title: "Seeding a Database"
       type: lecture
-      path: "../../../lectures/data-engineering/seeding-a-database/content.md"
+      path: "../../../lectures/data-engineering/seeding-a-database/content.html"
     - title: "Exporting and Migrating Data"
       type: lecture
-      path: "../../../lectures/data-engineering/exporting-and-migrating/content.md"
+      path: "../../../lectures/data-engineering/exporting-and-migrating/content.html"
     - title: "Conditional Updates"
       type: lecture
-      path: "../../../lectures/data-engineering/conditional-updates/content.md"
+      path: "../../../lectures/data-engineering/conditional-updates/content.html"
     - title: "My First Migration"
       type: assignment
 ---

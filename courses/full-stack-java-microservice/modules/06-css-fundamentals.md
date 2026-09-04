@@ -5,10 +5,10 @@ slug: css-fundamentals
 items:
     - title: "What is CSS?"
       type: lecture
-      path: "../../../lectures/html/css/what-is-css/content.md"
+      path: "../../../lectures/html/css/what-is-css/content.html"
     - title: "What is Pathing?"
       type: lecture
-      path: "../../../lectures/html/css/pathing/content.md"
+      path: "../../../lectures/html/css/pathing/content.html"
     - title: "My First Style"
       type: lab
       url: "https://github.com/Git-Leon/html.css.javascript-myfirststyle"

@@ -5,13 +5,13 @@ slug: configuring-data-engineering
 items:
     - title: "Environment Set Up"
       type: lecture
-      path: "../../../lectures/data-engineering/install-mysql/content.md"
+      path: "../../../lectures/data-engineering/install-mysql/content.html"
     - title: "Verifying Database Connectivity"
       type: lecture
-      path: "../../../lectures/data-engineering/my-first-database/content.md"
+      path: "../../../lectures/data-engineering/my-first-database/content.html"
     - title: "Connecting To a Database via Docker"
       type: lecture
-      path: "../../../lectures/data-engineering/database-connections/content.md"
+      path: "../../../lectures/data-engineering/database-connections/content.html"
     - title: "My First Database Connection"
       type: assignment
 ---

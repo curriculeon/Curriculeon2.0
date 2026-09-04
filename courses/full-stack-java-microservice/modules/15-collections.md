@@ -5,13 +5,13 @@ slug: collections
 items:
     - title: "Collection and Iterable Interface"
       type: lecture
-      path: "../../../lectures/java/collections/iterator-and-collection-interface/content.md"
+      path: "../../../lectures/java/collections/iterator-and-collection-interface/content.html"
     - title: "ArrayList, Unmodifiable List, Set"
       type: lecture
-      path: "../../../lectures/java/collections/arraylist-unmodifiablelist-set/content.md"
+      path: "../../../lectures/java/collections/arraylist-unmodifiablelist-set/content.html"
     - title: "Maps, Dictionaries, Associative Arrays"
       type: lecture
-      path: "../../../lectures/java/collections/maps/content.md"
+      path: "../../../lectures/java/collections/maps/content.html"
     - title: "My Playlist Iterator"
       type: lab
       url: "https://github.com/curriculeon/maven.playlist-manager"

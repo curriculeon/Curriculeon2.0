@@ -5,7 +5,7 @@ slug: object-orientation
 items:
     - title: "Foundations of Object Oriented Programming"
       type: lecture
-      path: "../../../lectures/java/object-oriented-programming/object-relations/content.md"
+      path: "../../../lectures/java/object-oriented-programming/object-relations/content.html"
     - title: "My First Person"
       type: lab
       url: "https://github.com/curriculeon/maven.my-first-person"

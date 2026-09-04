@@ -12,26 +12,26 @@ items:
       type: assignment
     - title: "Upgrade Powershell"
       type: lecture
-      path: "../../../lectures/terminal/dos/upgrade-powershell/content.md"
+      path: "../../../lectures/terminal/dos/upgrade-powershell/content.html"
     - title: "Install Chocolatey"
       type: lecture
-      path: "../../../lectures/terminal/dos/install-chocolatey/content.md"
+      path: "../../../lectures/terminal/dos/install-chocolatey/content.html"
     - title: "Install GitBash"
       type: lecture
-      path: "../../../lectures/version-control-systems/git/installation/content.md"
+      path: "../../../lectures/version-control-systems/git/installation/content.html"
     - title: "Mac Operating Systems"
       type: subheader
     - title: "Configuring MacOS Environment for Development"
       type: assignment
     - title: "Upgrade XCode"
       type: lecture
-      path: "../../../lectures/terminal/bash/upgrade-xcode/content.md"
+      path: "../../../lectures/terminal/bash/upgrade-xcode/content.html"
     - title: "Install Homebrew"
       type: lecture
-      path: "../../../lectures/terminal/bash/install-brew/content.md"
+      path: "../../../lectures/terminal/bash/install-brew/content.html"
     - title: "Install GitCli"
       type: lecture
-      path: "../../../lectures/version-control-systems/git/install-git-cli/content.md"
+      path: "../../../lectures/version-control-systems/git/install-git-cli/content.html"
 ---
 # Module 2: Configuring System Environment for Development
 

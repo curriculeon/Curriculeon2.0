@@ -5,13 +5,13 @@ slug: intro-to-git
 items:
     - title: "Environment Set Up"
       type: lecture
-      path: "../../../lectures/editors/vscode/installation/content.md"
+      path: "../../../lectures/editors/vscode/installation/content.html"
     - title: "Synching with Forked Repository"
       type: lecture
-      path: "../../../lectures/version-control-systems/git/synching-with-forked-repository/content.md"
+      path: "../../../lectures/version-control-systems/git/synching-with-forked-repository/content.html"
     - title: "Git Team Collaboration"
       type: lecture
-      path: "../../../lectures/version-control-systems/git/basic-collaboration/content.md"
+      path: "../../../lectures/version-control-systems/git/basic-collaboration/content.html"
     - title: "My First Repository"
       type: assignment
     - title: "My First Repository — Video"

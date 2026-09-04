@@ -5,10 +5,10 @@ slug: nodejs-fundamentals
 items:
     - title: "NodeJs Installation"
       type: lecture
-      path: "../../../lectures/nodejs/installation/content.md"
+      path: "../../../lectures/nodejs/installation/content.html"
     - title: "What is NodeJS?"
       type: lecture
-      path: "../../../lectures/nodejs/what-is/content.md"
+      path: "../../../lectures/nodejs/what-is/content.html"
     - title: "FileReadWrite"
       type: lab
       url: "https://github.com/curriculeon/nodejs.filereadwrite"

@@ -5,13 +5,13 @@ slug: intro-to-dbms
 items:
     - title: "Glossary"
       type: lecture
-      path: "../../../lectures/data-engineering/glossary/content.md"
+      path: "../../../lectures/data-engineering/glossary/content.html"
     - title: "Intro to SQL: DDL, DML, DQL"
       type: lecture
-      path: "../../../lectures/data-engineering/what-is-sql/content.md"
+      path: "../../../lectures/data-engineering/what-is-sql/content.html"
     - title: "Intro to ACID: Atomicity, Consistency, Isolation, Durability"
       type: lecture
-      path: "../../../lectures/angular/intro/content.md"
+      path: "../../../lectures/angular/intro/content.html"
 ---
 # Module 18: Intro to Database Management Systems
 

@@ -5,19 +5,19 @@ slug: design-principles
 items:
     - title: "SOLID Principles"
       type: lecture
-      path: "../../../lectures/java/design-principles/solid-principles/content.md"
+      path: "../../../lectures/java/design-principles/solid-principles/content.html"
     - title: "Design Patterns"
       type: lecture
-      path: "../../../lectures/java/design-principles/design-patterns/content.md"
+      path: "../../../lectures/java/design-principles/design-patterns/content.html"
     - title: "Creational Design Patterns"
       type: lecture
-      path: "../../../lectures/java/design-principles/design-patterns-creational/content.md"
+      path: "../../../lectures/java/design-principles/design-patterns-creational/content.html"
     - title: "Structural Design Patterns"
       type: lecture
-      path: "../../../lectures/java/design-principles/design-patterns-structural/content.md"
+      path: "../../../lectures/java/design-principles/design-patterns-structural/content.html"
     - title: "Behavioral Design Patterns"
       type: lecture
-      path: "../../../lectures/java/design-principles/design-patterns-behavioral/content.md"
+      path: "../../../lectures/java/design-principles/design-patterns-behavioral/content.html"
 ---
 # Module 16: Design Principles
 

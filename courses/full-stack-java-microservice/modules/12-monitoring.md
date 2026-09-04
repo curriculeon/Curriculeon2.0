@@ -5,7 +5,7 @@ slug: monitoring
 items:
     - title: "Exceptions, Assertions, Logging"
       type: lecture
-      path: "../../../lectures/java/fundamental-programming-structures/exceptions-assertions-logging/content.md"
+      path: "../../../lectures/java/fundamental-programming-structures/exceptions-assertions-logging/content.html"
     - title: "Phone Number Factory"
       type: lab
       url: "https://github.com/curriculeon/maven.exceptional-phone-number"
