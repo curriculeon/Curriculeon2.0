@@ -30,9 +30,9 @@ items:
 
 ## Items
 
-1. `lecture` [Environment Set Up](../../../lectures/editors/vscode/installation/content.md)
-2. `lecture` [Synching with Forked Repository](../../../lectures/version-control-systems/git/synching-with-forked-repository/content.md)
-3. `lecture` [Git Team Collaboration](../../../lectures/version-control-systems/git/basic-collaboration/content.md)
+1. `lecture` [Environment Set Up](../../../lectures/editors/vscode/installation/content.html)
+2. `lecture` [Synching with Forked Repository](../../../lectures/version-control-systems/git/synching-with-forked-repository/content.html)
+3. `lecture` [Git Team Collaboration](../../../lectures/version-control-systems/git/basic-collaboration/content.html)
 4. `assignment` My First Repository
 5. `video` [My First Repository — Video](https://drive.google.com/file/d/1_Pz4OkyJc4m4q7rdSKVOntdbnF5_gUZ2/view)
 6. `assignment` My First Fork and Synch

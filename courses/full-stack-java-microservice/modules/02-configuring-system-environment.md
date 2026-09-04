@@ -41,15 +41,15 @@ items:
 
 2. `video` [Configuring Windows OS Environment - Student Walkthrough Video](https://drive.google.com/file/d/1IU0Ol17EMcndLgJ92T1CSJes0_ZZsD8z/view)
 3. `assignment` Configuring Windows OS Environment for Development
-4. `lecture` [Upgrade Powershell](../../../lectures/terminal/dos/upgrade-powershell/content.md)
-5. `lecture` [Install Chocolatey](../../../lectures/terminal/dos/install-chocolatey/content.md)
-6. `lecture` [Install GitBash](../../../lectures/version-control-systems/git/installation/content.md)
+4. `lecture` [Upgrade Powershell](../../../lectures/terminal/dos/upgrade-powershell/content.html)
+5. `lecture` [Install Chocolatey](../../../lectures/terminal/dos/install-chocolatey/content.html)
+6. `lecture` [Install GitBash](../../../lectures/version-control-systems/git/installation/content.html)
 **Mac Operating Systems**
 
 8. `assignment` Configuring MacOS Environment for Development
-9. `lecture` [Upgrade XCode](../../../lectures/terminal/bash/upgrade-xcode/content.md)
-10. `lecture` [Install Homebrew](../../../lectures/terminal/bash/install-brew/content.md)
-11. `lecture` [Install GitCli](../../../lectures/version-control-systems/git/install-git-cli/content.md)
+9. `lecture` [Upgrade XCode](../../../lectures/terminal/bash/upgrade-xcode/content.html)
+10. `lecture` [Install Homebrew](../../../lectures/terminal/bash/install-brew/content.html)
+11. `lecture` [Install GitCli](../../../lectures/version-control-systems/git/install-git-cli/content.html)
 
 ## Summary
 

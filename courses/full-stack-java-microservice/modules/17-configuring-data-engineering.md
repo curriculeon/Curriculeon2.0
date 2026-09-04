@@ -19,9 +19,9 @@ items:
 
 ## Items
 
-1. `lecture` [Environment Set Up](../../../lectures/data-engineering/install-mysql/content.md)
-2. `lecture` [Verifying Database Connectivity](../../../lectures/data-engineering/my-first-database/content.md)
-3. `lecture` [Connecting To a Database via Docker](../../../lectures/data-engineering/database-connections/content.md)
+1. `lecture` [Environment Set Up](../../../lectures/data-engineering/install-mysql/content.html)
+2. `lecture` [Verifying Database Connectivity](../../../lectures/data-engineering/my-first-database/content.html)
+3. `lecture` [Connecting To a Database via Docker](../../../lectures/data-engineering/database-connections/content.html)
 4. `assignment` My First Database Connection
 
 ## Summary

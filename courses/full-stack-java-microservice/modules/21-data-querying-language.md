@@ -17,9 +17,9 @@ items:
 
 ## Items
 
-1. `lecture` [Viewing Data](../../../lectures/data-engineering/viewing-data/content.md)
-2. `lecture` [Relational Data](../../../lectures/data-engineering/relationships/content.md)
-3. `lecture` [Aggregating Data](../../../lectures/data-engineering/analytics/content.md)
+1. `lecture` [Viewing Data](../../../lectures/data-engineering/viewing-data/content.html)
+2. `lecture` [Relational Data](../../../lectures/data-engineering/relationships/content.html)
+3. `lecture` [Aggregating Data](../../../lectures/data-engineering/analytics/content.html)
 
 ## Summary
 

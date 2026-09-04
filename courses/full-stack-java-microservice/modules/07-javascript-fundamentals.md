@@ -50,14 +50,14 @@ items:
 
 ## Items
 
-1. `lecture` [What is JavaScript?](../../../lectures/html/javascript/intro-to-javascript/content.md)
-2. `lecture` [Types](../../../lectures/html/javascript/types/content.md)
-3. `lecture` [Operators](../../../lectures/html/javascript/operators/content.md)
-4. `lecture` [Conditionals](../../../lectures/html/javascript/conditionals/content.md)
-5. `lecture` [Functions](../../../lectures/html/javascript/functions/content.md)
-6. `lecture` [Loops](../../../lectures/html/javascript/loops/content.md)
-7. `lecture` [Classes](../../../lectures/html/javascript/defining-a-class/content.md)
-8. `lecture` [Modules](../../../lectures/html/javascript/modules/content.md)
+1. `lecture` [What is JavaScript?](../../../lectures/html/javascript/intro-to-javascript/content.html)
+2. `lecture` [Types](../../../lectures/html/javascript/types/content.html)
+3. `lecture` [Operators](../../../lectures/html/javascript/operators/content.html)
+4. `lecture` [Conditionals](../../../lectures/html/javascript/conditionals/content.html)
+5. `lecture` [Functions](../../../lectures/html/javascript/functions/content.html)
+6. `lecture` [Loops](../../../lectures/html/javascript/loops/content.html)
+7. `lecture` [Classes](../../../lectures/html/javascript/defining-a-class/content.html)
+8. `lecture` [Modules](../../../lectures/html/javascript/modules/content.html)
 9. `lab` [Fizzbuzz](https://github.com/curriculeon/html.css.javascript-fizzbuzz)
 10. `lab` [Number List](https://github.com/curriculeon/html.css.javascript-numbberlis)
 11. `lab` [String Manipulation](https://github.com/curriculeon/html.css.javascript-stringmanipulation)

@@ -16,8 +16,8 @@ items:
 
 ## Items
 
-1. `lecture` [Normalization, Second Form](../../../lectures/data-engineering/normalization-second-form/content.md)
-2. `lecture` [Normalization, Third Form](../../../lectures/data-engineering/normalization-third-form/content.md)
+1. `lecture` [Normalization, Second Form](../../../lectures/data-engineering/normalization-second-form/content.html)
+2. `lecture` [Normalization, Third Form](../../../lectures/data-engineering/normalization-third-form/content.html)
 3. `assignment` Normalization, First Form
 
 ## Summary

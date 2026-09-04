@@ -21,7 +21,7 @@ items:
 
 ## Items
 
-1. `lecture` [CLI Walkthrough](../../../lectures/terminal/bash/commandline-walkthrough/content.md)
+1. `lecture` [CLI Walkthrough](../../../lectures/terminal/bash/commandline-walkthrough/content.html)
 2. `video` [CLI Walkthrough — Video (Part 1)](https://drive.google.com/file/d/1bzJ_mGHRrRwMLLm5N7CQlN7c3OLThQRz/view)
 3. `video` [CLI Walkthrough — Video (Part 2)](https://drive.google.com/file/d/1_lfDw6jyJ_oUYAYy8o9Zvj4vKeBAEEDY/view)
 4. `assignment` Configuring Operating System for Development

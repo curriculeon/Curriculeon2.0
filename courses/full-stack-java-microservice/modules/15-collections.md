@@ -32,9 +32,9 @@ items:
 
 ## Items
 
-1. `lecture` [Collection and Iterable Interface](../../../lectures/java/collections/iterator-and-collection-interface/content.md)
-2. `lecture` [ArrayList, Unmodifiable List, Set](../../../lectures/java/collections/arraylist-unmodifiablelist-set/content.md)
-3. `lecture` [Maps, Dictionaries, Associative Arrays](../../../lectures/java/collections/maps/content.md)
+1. `lecture` [Collection and Iterable Interface](../../../lectures/java/collections/iterator-and-collection-interface/content.html)
+2. `lecture` [ArrayList, Unmodifiable List, Set](../../../lectures/java/collections/arraylist-unmodifiablelist-set/content.html)
+3. `lecture` [Maps, Dictionaries, Associative Arrays](../../../lectures/java/collections/maps/content.html)
 4. `lab` [My Playlist Iterator](https://github.com/curriculeon/maven.playlist-manager)
 5. `lab` [My Product Manager](https://github.com/curriculeon/maven.productmanager)
 6. `lab` [My Phonebook Application](https://github.com/curriculeon/maven.phonebook)

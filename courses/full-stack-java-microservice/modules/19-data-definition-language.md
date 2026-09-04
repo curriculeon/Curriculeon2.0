@@ -17,9 +17,9 @@ items:
 
 ## Items
 
-1. `lecture` [Table Schemas](../../../lectures/data-engineering/defining-schema-and-tables/content.md)
-2. `lecture` [Schema Constraints](../../../lectures/data-engineering/schema-constraints/content.md)
-3. `lecture` [Database Index](../../../lectures/data-engineering/database-index/content.md)
+1. `lecture` [Table Schemas](../../../lectures/data-engineering/defining-schema-and-tables/content.html)
+2. `lecture` [Schema Constraints](../../../lectures/data-engineering/schema-constraints/content.html)
+3. `lecture` [Database Index](../../../lectures/data-engineering/database-index/content.html)
 
 ## Summary
 

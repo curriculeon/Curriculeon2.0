@@ -16,8 +16,8 @@ items:
 
 ## Items
 
-1. `lecture` [Welcome to the Course](../../../lectures/welcome/content.md)
-2. `lecture` [What Are We Learning?](../../../lectures/courses/full-stack-java-microservice/what-are-we-learning/content.md)
+1. `lecture` [Welcome to the Course](../../../lectures/welcome/content.html)
+2. `lecture` [What Are We Learning?](../../../lectures/courses/full-stack-java-microservice/what-are-we-learning/content.html)
 3. `assignment` Join the Discord Server!
 
 ## Summary

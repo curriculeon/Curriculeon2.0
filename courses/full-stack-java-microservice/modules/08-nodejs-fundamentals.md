@@ -17,8 +17,8 @@ items:
 
 ## Items
 
-1. `lecture` [NodeJs Installation](../../../lectures/nodejs/installation/content.md)
-2. `lecture` [What is NodeJS?](../../../lectures/nodejs/what-is/content.md)
+1. `lecture` [NodeJs Installation](../../../lectures/nodejs/installation/content.html)
+2. `lecture` [What is NodeJS?](../../../lectures/nodejs/what-is/content.html)
 3. `lab` [FileReadWrite](https://github.com/curriculeon/nodejs.filereadwrite)
 
 ## Summary

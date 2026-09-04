@@ -17,8 +17,8 @@ items:
 
 ## Items
 
-1. `lecture` [What is CSS?](../../../lectures/html/css/what-is-css/content.md)
-2. `lecture` [What is Pathing?](../../../lectures/html/css/pathing/content.md)
+1. `lecture` [What is CSS?](../../../lectures/html/css/what-is-css/content.html)
+2. `lecture` [What is Pathing?](../../../lectures/html/css/pathing/content.html)
 3. `lab` [My First Style](https://github.com/Git-Leon/html.css.javascript-myfirststyle)
 
 ## Summary

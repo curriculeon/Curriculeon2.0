@@ -26,7 +26,7 @@ items:
 
 ## Items
 
-1. `lecture` [Foundations of Object Oriented Programming](../../../lectures/java/object-oriented-programming/object-relations/content.md)
+1. `lecture` [Foundations of Object Oriented Programming](../../../lectures/java/object-oriented-programming/object-relations/content.html)
 2. `lab` [My First Person](https://github.com/curriculeon/maven.my-first-person)
 3. `lab` [Object Relations: Encapsulation - Enums & POJOs](https://github.com/curriculeon/maven.enumintro)
 4. `lab` [Object Relations: Inheritance (is a) - Abstract Shapes](https://github.com/curriculeon/maven.abstractshapes)

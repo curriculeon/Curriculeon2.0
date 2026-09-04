@@ -24,7 +24,8 @@ exclude:
   - "*.bat"
   - "*.sh"
   - "*.log"
-  - target/
+  - target/  
+  - courses/public-course-full-stack-java-microservice-export/public-course-full-stack-java-microservice-export.zip_extracted
   # --- Orphaned top-level lecture directories (entirely unreferenced) ---
   - lectures/3d-printing/
   - lectures/computer-literacy/

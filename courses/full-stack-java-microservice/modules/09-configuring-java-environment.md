@@ -22,10 +22,10 @@ items:
 
 ## Items
 
-1. `lecture` [Java Installation](../../../lectures/java/installation/content.md)
-2. `lecture` [Maven Installation](../../../lectures/java/build-automation/maven/installation/content.md)
-3. `lecture` [IntelliJ Installation](../../../lectures/java/install-intellij/content.md)
-4. `lecture` [Creating a Java Project](../../../lectures/java/my-first-program/content.md)
+1. `lecture` [Java Installation](../../../lectures/java/installation/content.html)
+2. `lecture` [Maven Installation](../../../lectures/java/build-automation/maven/installation/content.html)
+3. `lecture` [IntelliJ Installation](../../../lectures/java/install-intellij/content.html)
+4. `lecture` [Creating a Java Project](../../../lectures/java/my-first-program/content.html)
 5. `assignment` My First Project
 
 ## Summary

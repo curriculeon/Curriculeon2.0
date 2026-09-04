@@ -36,11 +36,11 @@ items:
 
 ## Items
 
-1. `lecture` [HTTP Verbs](../../../lectures/java/web/http-verbs/content.md)
-2. `lecture` [RESTful Development](../../../lectures/java/web/restful-development/content.md)
-3. `lecture` [Model, View, Controller](../../../lectures/java/web/model-view-controller/content.md)
-4. `lecture` [Spring Annotations](../../../lectures/java/web/spring/spring-annotations/content.md)
-5. `lecture` [Mockito](../../../lectures/java/web/mockito/what-is/content.md)
+1. `lecture` [HTTP Verbs](../../../lectures/java/web/http-verbs/content.html)
+2. `lecture` [RESTful Development](../../../lectures/java/web/restful-development/content.html)
+3. `lecture` [Model, View, Controller](../../../lectures/java/web/model-view-controller/content.html)
+4. `lecture` [Spring Annotations](../../../lectures/java/web/spring/spring-annotations/content.html)
+5. `lecture` [Mockito](../../../lectures/java/web/mockito/what-is/content.html)
 6. `assignment` Spring Boot CRUD Controller
 7. `video` [Spring Boot CRUD Controller - Live Lecture Demonstration (Part 1)](https://drive.google.com/file/d/17uM4eo62P24QX_T3A9TlDZfAEowFcG9S/view)
 8. `video` [Spring Boot CRUD Controller - Live Lecture Demonstration (Part 2)](https://drive.google.com/file/d/1UB0j1NwLjypS11uHtgM_kbIJ015ovWz4/view)

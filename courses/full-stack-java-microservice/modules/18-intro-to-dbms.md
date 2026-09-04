@@ -17,9 +17,9 @@ items:
 
 ## Items
 
-1. `lecture` [Glossary](../../../lectures/data-engineering/glossary/content.md)
-2. `lecture` [Intro to SQL: DDL, DML, DQL](../../../lectures/data-engineering/what-is-sql/content.md)
-3. `lecture` [Intro to ACID: Atomicity, Consistency, Isolation, Durability](../../../lectures/angular/intro/content.md)
+1. `lecture` [Glossary](../../../lectures/data-engineering/glossary/content.html)
+2. `lecture` [Intro to SQL: DDL, DML, DQL](../../../lectures/data-engineering/what-is-sql/content.html)
+3. `lecture` [Intro to ACID: Atomicity, Consistency, Isolation, Durability](../../../lectures/angular/intro/content.html)
 
 ## Summary
 

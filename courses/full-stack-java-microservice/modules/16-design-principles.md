@@ -23,11 +23,11 @@ items:
 
 ## Items
 
-1. `lecture` [SOLID Principles](../../../lectures/java/design-principles/solid-principles/content.md)
-2. `lecture` [Design Patterns](../../../lectures/java/design-principles/design-patterns/content.md)
-3. `lecture` [Creational Design Patterns](../../../lectures/java/design-principles/design-patterns-creational/content.md)
-4. `lecture` [Structural Design Patterns](../../../lectures/java/design-principles/design-patterns-structural/content.md)
-5. `lecture` [Behavioral Design Patterns](../../../lectures/java/design-principles/design-patterns-behavioral/content.md)
+1. `lecture` [SOLID Principles](../../../lectures/java/design-principles/solid-principles/content.html)
+2. `lecture` [Design Patterns](../../../lectures/java/design-principles/design-patterns/content.html)
+3. `lecture` [Creational Design Patterns](../../../lectures/java/design-principles/design-patterns-creational/content.html)
+4. `lecture` [Structural Design Patterns](../../../lectures/java/design-principles/design-patterns-structural/content.html)
+5. `lecture` [Behavioral Design Patterns](../../../lectures/java/design-principles/design-patterns-behavioral/content.html)
 
 ## Summary
 

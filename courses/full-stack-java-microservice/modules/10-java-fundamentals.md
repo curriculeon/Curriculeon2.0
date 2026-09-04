@@ -68,12 +68,12 @@ items:
 
 ## Items
 
-1. `lecture` [Types](../../../lectures/java/fundamental-programming-structures/types/content.md)
-2. `lecture` [Operators](../../../lectures/java/fundamental-programming-structures/operators/content.md)
-3. `lecture` [Control Flow](../../../lectures/java/fundamental-programming-structures/control-flow/content.md)
+1. `lecture` [Types](../../../lectures/java/fundamental-programming-structures/types/content.html)
+2. `lecture` [Operators](../../../lectures/java/fundamental-programming-structures/operators/content.html)
+3. `lecture` [Control Flow](../../../lectures/java/fundamental-programming-structures/control-flow/content.html)
 4. `video` [Numbers, Triangles, Tables - getRange(stop) Walkthrough](https://drive.google.com/file/d/1-xfWjy_XfzIzOrfg6qfN_v_aKs_R8kC1/view)
-5. `lecture` [Arrays](../../../lectures/java/fundamental-programming-structures/arrays/content.md)
-6. `lecture` [Object Relations: Encapsulation - Defining a Class](../../../lectures/java/object-oriented-programming/defining-a-class/content.md)
+5. `lecture` [Arrays](../../../lectures/java/fundamental-programming-structures/arrays/content.html)
+6. `lecture` [Object Relations: Encapsulation - Defining a Class](../../../lectures/java/object-oriented-programming/defining-a-class/content.html)
 7. `lab` [Java Fundamentals](https://github.com/curriculeon/maven.java-fundamentals)
 8. `quiz` Java Fundamentals: Operators Quiz
 9. `lab` [Jfoot Wombats](https://github.com/curriculeon/jfoot.wombat)

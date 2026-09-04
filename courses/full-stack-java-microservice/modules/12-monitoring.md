@@ -14,7 +14,7 @@ items:
 
 ## Items
 
-1. `lecture` [Exceptions, Assertions, Logging](../../../lectures/java/fundamental-programming-structures/exceptions-assertions-logging/content.md)
+1. `lecture` [Exceptions, Assertions, Logging](../../../lectures/java/fundamental-programming-structures/exceptions-assertions-logging/content.html)
 2. `lab` [Phone Number Factory](https://github.com/curriculeon/maven.exceptional-phone-number)
 
 ## Summary

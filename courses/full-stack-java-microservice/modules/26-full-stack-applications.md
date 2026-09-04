@@ -17,7 +17,7 @@ items:
 
 ## Items
 
-1. `lecture` [Spring JQuery Full-Stack Demonstration](../../../lectures/java/web/spring/my-first-fullstack/index.md)
+1. `lecture` [Spring JQuery Full-Stack Demonstration](../../../lectures/java/web/spring/my-first-fullstack/index.html)
 2. `lab` [Spring Blackjack Debugger](https://github.com/curriculeon/spring.micromonolith-blackjackdebugger)
 3. `lab` [Spring JQuery Broken Crud](https://github.com/curriculeon/spring.jquery.broken-crud)
 

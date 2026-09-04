@@ -19,9 +19,9 @@ items:
 
 ## Items
 
-1. `lecture` [Seeding a Database](../../../lectures/data-engineering/seeding-a-database/content.md)
-2. `lecture` [Exporting and Migrating Data](../../../lectures/data-engineering/exporting-and-migrating/content.md)
-3. `lecture` [Conditional Updates](../../../lectures/data-engineering/conditional-updates/content.md)
+1. `lecture` [Seeding a Database](../../../lectures/data-engineering/seeding-a-database/content.html)
+2. `lecture` [Exporting and Migrating Data](../../../lectures/data-engineering/exporting-and-migrating/content.html)
+3. `lecture` [Conditional Updates](../../../lectures/data-engineering/conditional-updates/content.html)
 4. `assignment` My First Migration
 
 ## Summary

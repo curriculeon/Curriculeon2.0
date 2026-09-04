@@ -23,10 +23,10 @@ items:
 
 ## Items
 
-1. `lecture` [Untestable Monoliths](../../../lectures/java/test-driven-development/untestable-monoliths/content.md)
-2. `lecture` [Fundamental Test Clauses](../../../lectures/java/test-driven-development/fundamental-clauses/content.md)
-3. `lecture` [Object-State vs Object-Identity](../../../lectures/java/test-driven-development/state-vs-identity/content.md)
-4. `lecture` [Abstracting Test Clauses](../../../lectures/java/test-driven-development/fundamental-clauses/content.md)
+1. `lecture` [Untestable Monoliths](../../../lectures/java/test-driven-development/untestable-monoliths/content.html)
+2. `lecture` [Fundamental Test Clauses](../../../lectures/java/test-driven-development/fundamental-clauses/content.html)
+3. `lecture` [Object-State vs Object-Identity](../../../lectures/java/test-driven-development/state-vs-identity/content.html)
+4. `lecture` [Abstracting Test Clauses](../../../lectures/java/test-driven-development/fundamental-clauses/content.html)
 5. `lab` [TDD Animal Factory](https://github.com/curriculeon/maven_tdd-animal-factory)
 
 ## Summary
